@@ -491,6 +491,7 @@ margin: 0;
 .footer-hero {
         background-color: #2E2F42;
         padding: 100px 0 ;
+        
   }
 
   .footer-logo {
@@ -518,7 +519,10 @@ margin: 0;
     letter-spacing: 0.02em;
     margin-bottom: 16px;
   }
-
+  .footer-form {
+    margin-left: auto;
+  }
+  
   .form-mail {
     display: flex;
     gap: 24px;
